@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/shenky1/Semantic-Release-Angular/compare/v1.1.0...v1.2.0) (2023-06-15)
+
+
+### Features
+
+* **DEED-123:** BREAKING CHANGE possibly ([879b280](https://github.com/shenky1/Semantic-Release-Angular/commit/879b2803acb3c14f28732d1df82e3dadd0f3703f))
+
 # [1.1.0](https://github.com/shenky1/Semantic-Release-Angular/compare/v1.0.4...v1.1.0) (2023-06-15)
 
 
