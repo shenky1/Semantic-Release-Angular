@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/shenky1/Semantic-Release-Angular/compare/v2.0.1...v2.0.2) (2023-06-15)
+
+
+### Bug Fixes
+
+* **DEEDU-412:** Update title of the app ([8ffb707](https://github.com/shenky1/Semantic-Release-Angular/commit/8ffb7073c8be4645565a648c42689d8325253f97))
+
 ## [2.0.1](https://github.com/shenky1/Semantic-Release-Angular/compare/v2.0.0...v2.0.1) (2023-06-15)
 
 
