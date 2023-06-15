@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/shenky1/Semantic-Release-Angular/compare/v2.0.0...v2.0.1) (2023-06-15)
+
+
+### Bug Fixes
+
+* **DEED: 124:** Update title ([0fe2cb6](https://github.com/shenky1/Semantic-Release-Angular/commit/0fe2cb6428abf08ca4d463ab71d70cc74b477c06))
+
 # [2.0.0](https://github.com/shenky1/Semantic-Release-Angular/compare/v1.2.0...v2.0.0) (2023-06-15)
 
 
